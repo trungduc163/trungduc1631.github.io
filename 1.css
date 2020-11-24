@@ -12,7 +12,7 @@ body {
 	background-repeat: none;
 	display: flex;
 	align-items: center;
-	position: relative;
+	background-position: 50%;
 }
 .firstclk {
 	font-weight: 500;
