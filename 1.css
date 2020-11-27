@@ -12,6 +12,7 @@ body {
 	display: flex;
 	align-items: center;
 	position: relative;
+	min-height: 100%;
 }
 .firstclk {
 	font-weight: 500;
