@@ -191,5 +191,5 @@ cantho.insertAdjacentHTML('afterend', '<div class="author mt-5"><div class="row"
 document.querySelector('.Description .modal-title').innerHTML = '<i class="far fa-comment-alt"></i>&nbsp;Nhịp tim như vậy là vì';
 document.querySelector('.Description .modal-body').innerHTML = 'Tao yêu mày <i class="fas fa-heart"></i> ';
 var author = document.querySelector('.author .me');author.style.opacity = "0.5";
-#author.innerHTML = "Bản quyền thuộc về<a href='https://anonyviet.com'>Lmint<a>";
+//author.innerHTML = "Bản quyền thuộc về<a href='https://anonyviet.com'>Lmint<a>";
 author.style.opacity = "0";
